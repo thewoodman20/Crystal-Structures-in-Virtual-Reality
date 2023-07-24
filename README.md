@@ -1,6 +1,6 @@
-All files denoted with a "Whats the Plane" include a crystal plane example for the students to analyze and solve for the miller indices. 
+All files denoted with "Whats the Plane" in the file name include a crystal plane example for the students to analyze and solve for the miller indices. 
 
-All files denoted with the respective Unit Cell structure are templates with axes to help students plot planes, which is left to the discretion of the person running the activity. 
+All files denoted with the respective Unit Cell structure in the file name are templates with axes to help students plot planes, which is left to the discretion of the person running the activity. 
 
 An example of the activity is provided under the Gravity Sketch folder (To be added). 
 
